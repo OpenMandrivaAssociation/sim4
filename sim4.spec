@@ -8,6 +8,7 @@ Version:	%{version}
 Release:	%{release}
 Summary:	Program to align cDNA and genomic DNA
 Group:		Sciences/Biology
+BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPL
 URL:		http://globin.cse.psu.edu
 Source:		http://globin.cse.psu.edu/dist/sim4/%{name}.%{split_version}.tar.bz2
