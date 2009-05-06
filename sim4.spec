@@ -10,8 +10,8 @@ Summary:	Program to align cDNA and genomic DNA
 Group:		Sciences/Biology
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 License:	GPL
-URL:		http://globin.cse.psu.edu
-Source:		http://globin.cse.psu.edu/dist/sim4/%{name}.%{split_version}.tar.bz2
+URL:		http://globin.cse.psu.edu/html/docs/sim4.html
+Source:		http://globin.cse.psu.edu/ftp/dist/sim4/%{name}.%{split_version}.tar.bz2
 
 %description
 sim4 is a similarity-based tool for aligning an expressed DNA sequence
