@@ -1,7 +1,7 @@
 %define name		sim4
 %define version		20030921
 %define split_version	2003-09-21
-%define release		%mkrel 7
+%define release		%mkrel 8
 
 Name:		%{name}
 Version:	%{version}
